@@ -1,0 +1,7 @@
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/MyNoteBook.dir
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/shownotebook.dir
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/createnotebook.dir
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/addnote.dir
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/cleannotebook.dir
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/edit_cache.dir
+/Users/lorenzo/Executables/Source/Note/CMakeFiles/rebuild_cache.dir
